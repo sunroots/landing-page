@@ -1,5 +1,5 @@
 module.exports = {
-  siteTitle: 'Sunroots - Del astro rey al solarium de Sandro Rey', // <title>
+  siteTitle: 'Sunroots - Manifiéstate con nosotros por otro modelo energético', // <title>
   manifestName: 'Sunroots',
   manifestShortName: 'Sunroots', // max 12 characters
   manifestStartUrl: '/',
@@ -11,7 +11,7 @@ module.exports = {
   // social
   heading: 'Sunroots',
   subHeading:
-    "Del astro rey al solarium de Sandro Rey.",
+    "Manifiéstate con nosotros por otro modelo energético.",
   socialLinks: [
     {
       icon: 'fa-github',
