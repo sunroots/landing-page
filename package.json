@@ -22,7 +22,7 @@
     "react-helmet": "^5.2.1"
   },
   "scripts": {
-    "develop": "gatsby develop",
+    "start": "gatsby develop",
     "build": "npm run clean && gatsby build",
     "deploy": "npm run clean && gatsby build --prefix-paths && gh-pages -d public",
     "serve": "gatsby serve",
