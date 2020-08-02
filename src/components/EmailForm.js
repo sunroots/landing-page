@@ -7,6 +7,11 @@ const EmailForm = () => {
     e.preventDefault();
     e.stopPropagation();
     setMessage('Thank you!');
+    setTimeout(() => {
+      setMessage('');
+      const emailField = document.getElementById('email')
+      if (emailField) emailField.value = '';
+    }, 3000);
   }
 
   return (
