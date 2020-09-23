@@ -11,7 +11,9 @@
     "email": "castany.adria@gmail.com"
   },
   "dependencies": {
+    "dotenv": "^8.2.0",
     "gatsby": "^2.20.2",
+    "gatsby-plugin-google-analytics": "^2.3.14",
     "gatsby-plugin-manifest": "^2.3.1",
     "gatsby-plugin-offline": "^3.1.0",
     "gatsby-plugin-react-helmet": "^3.2.0",
