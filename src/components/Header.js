@@ -7,6 +7,7 @@ export default function Footer() {
   const logoStyle = {
     width: '20vh',
     height: 'auto',
+    opacity: '0.7',
   };
 
   return (
