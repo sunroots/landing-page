@@ -8,10 +8,8 @@ module.exports = {
   manifestDisplay: 'standalone',
   manifestIcon: 'src/assets/img/sun-icon.svg',
   // pathPrefix: `/sunroots/`, // This path is subpath of your hosting https://domain/portfolio
+  subHeading: "Manifiéstate con nosotros por otro modelo energético.",
   // social
-  heading: 'Sunroots',
-  subHeading:
-    "Manifiéstate con nosotros por otro modelo energético.",
   socialLinks: [
     {
       icon: 'fa-github',
